@@ -1,0 +1,84 @@
+.display{
+    display: flex;
+    background-color: white;
+    border-radius: 100px;
+}
+
+button{
+    background-color:rgb(145, 145, 238);
+    color: white;
+}
+.headphones{
+padding-left: 90%;   
+ border-image-width: 50%;
+}
+.others{
+    display: flex;
+
+
+
+
+
+}
+button{
+    background-color: blue;
+    
+}
+
+.newphone{
+    display: flex;
+}
+
+.discover{
+    display: flex;
+    border: solid 1px;
+    border-radius: 30px;
+width: 60%;
+    padding: 5%;
+    background-color: rgb(249, 208, 214);
+}
+
+.holder{
+    display: flex;
+   
+}
+.updates{
+display: flex;
+}
+
+.press{
+    display: flex;
+    padding-left: 80%;
+}
+.bottomp{
+   display: flex;
+   justify-content: space-between;
+   padding-left: 20%;
+}
+
+.last{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 70%;
+}
+.payments{
+    padding-left: 20%;
+    width:95%
+}
+.captions{
+    display: flex;
+}
+.figures{
+    display: flex;
+}
+.shapes{
+    display: flex;
+}
+.begin{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 60%;
+}
+.top{
+    justify-content: space-between;
+}
